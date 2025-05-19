@@ -15,6 +15,7 @@ D:\NETProgramming\lab\Lab4\Lab4\obj\Debug\net8.0-windows\refint\Lab4.dll
 D:\NETProgramming\lab\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.pdb
 D:\NETProgramming\lab\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.genruntimeconfig.cache
 D:\NETProgramming\lab\Lab4\Lab4\obj\Debug\net8.0-windows\ref\Lab4.dll
+<<<<<<< HEAD
 D:\NT106\LAB\LAB04\Lab4\bin\Debug\net8.0-windows\Lab4.exe
 D:\NT106\LAB\LAB04\Lab4\bin\Debug\net8.0-windows\Lab4.deps.json
 D:\NT106\LAB\LAB04\Lab4\bin\Debug\net8.0-windows\Lab4.runtimeconfig.json
@@ -34,3 +35,6 @@ D:\NT106\LAB\LAB04\Lab4\obj\Debug\net8.0-windows\refint\Lab4.dll
 D:\NT106\LAB\LAB04\Lab4\obj\Debug\net8.0-windows\Lab4.pdb
 D:\NT106\LAB\LAB04\Lab4\obj\Debug\net8.0-windows\Lab4.genruntimeconfig.cache
 D:\NT106\LAB\LAB04\Lab4\obj\Debug\net8.0-windows\ref\Lab4.dll
+=======
+D:\NETProgramming\lab\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.Bai3.resources
+>>>>>>> d6cc67b3359676ec40d703d7076dd596974f8a06
