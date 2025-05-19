@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "IrnsDd65lCo=",
+  "dgSpecHash": "/LmPAI21BN8=",
   "success": true,
   "projectFilePath": "D:\\NT106\\LAB\\LAB04\\Lab4\\Lab4.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hieu\\.nuget\\packages\\htmlagilitypack\\1.12.1\\htmlagilitypack.1.12.1.nupkg.sha512"
+  ],
   "logs": []
 }
